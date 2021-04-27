@@ -1,5 +1,5 @@
-# docker-speedtest
-This is the docker image for [@henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker)
+# docker-speedtest [![Docker Image CI](https://github.com/peanutbother/docker-speedtest/actions/workflows/docker-image.yml/badge.svg)](https://github.com/peanutbother/docker-speedtest/actions/workflows/docker-image.yml) ![version](https://img.shields.io/badge/version-v1.10.4-success?style=flat-round) [![license](https://img.shields.io/github/license/henrywhitaker3/Speedtest-Tracker?style=flat-round)](https://github.com/henrywhitaker3/Speedtest-Tracker/blob/master/LICENSE)
+This is the docker image for [@henrywhitaker3/Speedtest-Tracker](https://github.com/henrywhitaker3/Speedtest-Tracker) 
 
 ## Available Platforms
 - amd64
